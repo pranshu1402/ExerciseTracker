@@ -1,0 +1,26 @@
+{
+  "name": "et_backend",
+  "version": "1.0.0",
+  "description": "Backend for Exercise Tracker Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "MERN",
+    "Exercise",
+    "Tracker"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pranshu1402/ExerciseTracker"
+  },
+  "author": "Pranshu Goyal",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2"
+  }
+}
